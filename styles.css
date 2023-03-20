@@ -1,0 +1,28 @@
+.grid {
+    border: 5px solid;
+    border-color: plum;
+    height: 480px;
+    width: 560px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    height: 80px;
+    width: 80px;
+}
+
+h2 {
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: plum;
+}
+
+.player-one {
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+
+.player-two {
+    background-color: lightcoral;
+    border-radius: 20px;
+}
